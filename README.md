@@ -13,3 +13,4 @@ With having Reset.
 This Counter is having Implementation of increment(),decrement() and reset().
 and CounterButton is a Child Class of Counter with having parameters passed such as by,incrementMethod and decrementMethod.
 
+![Screenshot from 2022-03-24 14-32-44](https://user-images.githubusercontent.com/32630890/159880969-8e1cd79e-cf7f-4ac3-9a74-7ec2b0f2ab81.png)
